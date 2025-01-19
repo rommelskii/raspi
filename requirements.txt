@@ -1,0 +1,6 @@
+onnx
+onnxruntime
+transformers
+sentencepiece
+torch
+pillow
